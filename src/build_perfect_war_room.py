@@ -63,6 +63,8 @@ def main():
     b64_santner = load_base64(os.path.join(ASSETS_DIR, "mitchell_santner.jpg"))
     b64_banner = load_base64(os.path.join(ASSETS_DIR, "rr_banner.jpg"))
     b64_stadium = load_base64(os.path.join(ASSETS_DIR, "sawai_mansingh_stadium.jpg"))
+    b64_hawa = load_base64(os.path.join(ASSETS_DIR, "hawa_mahal_hero_reference_crop.png"))
+    b64_flag_crop = load_base64(os.path.join(ASSETS_DIR, "royal_flag_reference_crop.png"))
 
     # Figures for secondary modules
     b64_donut = load_base64(os.path.join(FIGURES_DIR, "pressure_donut.png"))
@@ -178,6 +180,56 @@ def main():
       color: #FFFFFF;
       font-weight: 700;
       box-shadow: 0 0 22px rgba(240, 45, 155, 0.4);
+    }}
+
+    /* Hero Banner (Guide V2.0 Authentic Hawa Mahal Specification) */
+    .hero-banner {{
+      position: relative;
+      min-height: 175px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: linear-gradient(110deg, #111832 0%, #1a1739 60%, #251638 100%);
+      box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.7);
+    }}
+    .hero-banner__photo {{
+      position: absolute;
+      inset: 0 0 0 auto;
+      width: 52%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 38%;
+      pointer-events: none;
+      z-index: 1;
+    }}
+    .hero-banner::after {{
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg,
+        #111832 0%,
+        rgba(17,24,50,0.98) 32%,
+        rgba(17,24,50,0.72) 48%,
+        rgba(17,24,50,0.12) 75%,
+        rgba(17,24,50,0.25) 100%);
+      pointer-events: none;
+      z-index: 2;
+    }}
+    .hero-banner__content {{
+      position: relative;
+      z-index: 5;
+      max-width: 62%;
+    }}
+    .hero-banner__flag {{
+      position: absolute;
+      z-index: 4;
+      right: 18px;
+      top: 0;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      pointer-events: none;
     }}
 
     /* Cards */
@@ -401,10 +453,11 @@ def main():
 
     <!-- Sidebar Bottom: Palace Silhouette & Disclaimer -->
     <div class="p-4 border-t border-[#273452] relative overflow-hidden bg-gradient-to-t from-[#15102a] via-[#10142b] to-[#090E22]">
-      <div class="h-16 w-full mb-2 opacity-70 flex items-center justify-center pointer-events-none">
+      <div class="absolute inset-0 opacity-20 pointer-events-none mix-blend-screen bg-cover bg-center" style="background-image: url('{b64_hawa or 'assets/hawa_mahal_hero_reference_crop.png'}');"></div>
+      <div class="h-16 w-full mb-2 opacity-85 flex items-center justify-center pointer-events-none relative z-10">
         {svgs.get('palace_silhouette', '')}
       </div>
-      <div class="text-[10px] text-slate-400 leading-snug">
+      <div class="text-[10px] text-slate-400 leading-snug relative z-10">
         <div class="font-extrabold text-white text-[11px]">Independent Research Dossier</div>
         <div>SupeRR Selector Season 2</div>
         <div class="text-slate-400 text-[9px] mt-0.5">Not an official RR publication</div>
@@ -470,29 +523,24 @@ def main():
       <!-- ===================================================================== -->
       <section id="module-overview" class="module-pane space-y-5">
         
-        <!-- HERO SECTION: Layered Palace Horizon, Atmospheric Glow & Royal Flag -->
-        <div class="relative overflow-hidden rounded-2xl border border-[#273452] bg-[#111A32] min-h-[165px] flex items-center justify-between shadow-2xl">
+        <!-- HERO SECTION: Authentic Hawa Mahal Photograph, Atmospheric Lighting & Royal Flag (Guide V2.0 Spec) -->
+        <div class="hero-banner flex items-center justify-between">
           
-          <!-- Layer 1: Photographic Hawa Mahal Backdrop -->
-          <div class="absolute right-0 top-0 bottom-0 w-3/5 opacity-40 pointer-events-none flex items-center justify-end overflow-hidden z-0 mix-blend-luminosity">
-            <img src="{b64_banner or 'assets/rr_banner.jpg'}" alt="Hawa Mahal" class="h-full w-full object-cover object-right">
+          <!-- Layer 1: Authentic Hawa Mahal Photographic Hero Facade -->
+          <img src="{b64_hawa or 'assets/hawa_mahal_hero_reference_crop.png'}" alt="Hawa Mahal" class="hero-banner__photo">
+
+          <!-- Layer 2: Soft Violet/Atmospheric Horizon Glow -->
+          <div class="absolute right-0 top-0 bottom-0 w-3/5 opacity-20 pointer-events-none flex items-center justify-end overflow-hidden z-[1] mix-blend-screen">
+            <img src="{bg_hero_horizon}" alt="Horizon" class="h-full w-full object-cover object-right">
           </div>
 
-          <!-- Layer 2: Palace Horizon Artwork on Right -->
-          <div class="absolute right-0 top-0 bottom-0 w-3/5 opacity-85 pointer-events-none flex items-center justify-end overflow-hidden z-0">
-            <img src="{bg_hero_horizon}" alt="Palace Horizon" class="h-full w-full object-cover object-right">
+          <!-- Layer 3: Floating Royal Flag at Far Right -->
+          <div class="hero-banner__flag w-28 sm:w-36">
+            <img src="{b64_flag_crop or 'assets/royal_flag_reference_crop.png'}" alt="Rajasthan Royals Flag" class="h-auto max-h-[85%] w-auto object-contain drop-shadow-[0_8px_16px_rgba(0,0,0,0.8)]">
           </div>
 
-          <!-- Layer 3: Floating Royal Flag at Palace Peak -->
-          <div class="absolute right-8 top-1/2 -translate-y-1/2 w-32 h-32 pointer-events-none z-10 opacity-95 hidden sm:block">
-            {svgs.get('royal_flag', '')}
-          </div>
-
-          <!-- Layer 4: Dark Left Text-Safe Gradient Overlay -->
-          <div class="absolute inset-0 bg-gradient-to-r from-[#090E22] via-[#111A32]/95 to-transparent w-full lg:w-3/5 pointer-events-none z-10"></div>
-
-          <!-- Layer 5: Text Content (Sharp & Unobscured) -->
-          <div class="relative z-20 px-7 py-5 space-y-1.5 max-w-xl">
+          <!-- Layer 4: Live Title, Subtitle and Eyebrow in Safe Left Zone -->
+          <div class="hero-banner__content px-7 py-5 space-y-1.5">
             <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#F02D9B]/15 text-[#F02D9B] border border-[#F02D9B]/40 text-[10px] font-black uppercase tracking-wider">
               Executive Analytics
             </div>
