@@ -1,0 +1,1218 @@
+player_id,player_name,eligibility_status,eligibility_reason,played_ipl,teams_represented
+478,Eoin Morgan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+479,Adil Rashid,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Sunrisers Hyderabad
+722,Liam Dawson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+786,Chris Jordan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | England | Mumbai Indians
+1187,Jason Roy,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Gujarat Titans | Kolkata Knight Riders
+1210,James Vince,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+1556,David Payne,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Sunrisers Hyderabad
+1596,Moeen Ali,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | England | Kolkata Knight Riders
+1924,Sam Billings,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Kolkata Knight Riders
+2304,Tymal Mills,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Mumbai Indians
+2315,Reece Topley,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Mumbai Indians | Royal Challengers Bengaluru
+4391,Liam Livingstone,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Punjab Kings | Royal Challengers Bengaluru
+4499,Saqib Mahmood,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+4826,George Garton,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+5553,Phil Salt,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | England | Kolkata Knight Riders
+6273,Tom Banton,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Gujarat Titans
+6280,Harry Brook,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | England | Sunrisers Hyderabad
+494,Kieron Pollard,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | West Indies
+778,Darren Bravo,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+1772,Sheldon Cottrell,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+2416,Kyle Mayers,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | West Indies
+2417,Akeal Hosein,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Sunrisers Hyderabad | West Indies
+2633,Jason Holder,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Lucknow Super Giants | Rajasthan Royals
+2687,Roston Chase,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+3125,Nicholas Pooran,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Sunrisers Hyderabad | West Indies
+3272,Fabian Allen,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | West Indies
+3622,Hayden Walsh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+3639,Brandon King,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+4369,Shai Hope,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | West Indies
+4840,Odean Smith,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Punjab Kings | West Indies
+4986,Rovman Powell,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Kolkata Knight Riders | Rajasthan Royals
+6726,Romario Shepherd,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Mumbai Indians | Royal Challengers Bengaluru
+6797,Dominic Drakes,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | West Indies
+47,Virat Kohli,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Royal Challengers Bengaluru
+126,Rohit Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Mumbai Indians
+360,Bhuvneshwar Kumar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Royal Challengers Bengaluru | Sunrisers Hyderabad
+953,Lokesh Rahul,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | India | Lucknow Super Giants
+1612,Yuzvendra Chahal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Punjab Kings | Rajasthan Royals
+1699,Suryakumar Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Mumbai Indians
+1813,Deepak Chahar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India | Mumbai Indians
+2261,Harshal Patel,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Punjab Kings | Royal Challengers Bengaluru
+2847,Shardul Thakur,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Delhi Capitals | India
+2876,Axar Patel,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | India
+3644,Kuldeep Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | India
+3647,Shreyas Iyer,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Kolkata Knight Riders | Punjab Kings
+3648,Deepak Hooda,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India | Lucknow Super Giants
+3653,Avesh Khan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Lucknow Super Giants | Rajasthan Royals
+4117,Ishan Kishan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Mumbai Indians | Sunrisers Hyderabad
+4703,Rishabh Pant,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | India | Lucknow Super Giants
+4823,Washington Sundar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India | Sunrisers Hyderabad
+5944,Mohammed Siraj,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India | Royal Challengers Bengaluru
+6059,Ruturaj Gaikwad,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India
+7503,Ravi Bishnoi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Lucknow Super Giants | Rajasthan Royals
+7544,Venkatesh Iyer,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Kolkata Knight Riders | Royal Challengers Bengaluru
+223,Steven Smith,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+224,Moises Henriques,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+250,Aaron Finch,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Kolkata Knight Riders
+286,Kane Richardson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+796,Matthew Wade,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Gujarat Titans
+829,Mitchell Starc,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Delhi Capitals | Kolkata Knight Riders
+830,Josh Hazlewood,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Royal Challengers Bengaluru
+838,Glenn Maxwell,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Punjab Kings | Royal Challengers Bengaluru
+1758,Patrick Cummins,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Kolkata Knight Riders | Sunrisers Hyderabad
+2364,Ashton Agar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+2367,Travis Head,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Sunrisers Hyderabad
+2636,Adam Zampa,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Rajasthan Royals | Sunrisers Hyderabad
+2639,Marcus Stoinis,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Lucknow Super Giants | Punjab Kings
+3539,Ben McDermott,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+4505,Jhye Richardson,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Delhi Capitals | Mumbai Indians
+4736,Josh Inglis,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Lucknow Super Giants | Punjab Kings
+6518,Daniel Sams,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Lucknow Super Giants | Mumbai Indians
+1100,Dinesh Chandimal,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+2351,Danushka Gunathilaka,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+2399,Dushmantha Chameera,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Kolkata Knight Riders | Lucknow Super Giants
+2436,Dasun Shanaka,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Rajasthan Royals | Sri Lanka
+3664,Binura Fernando,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+3672,Kusal Mendis,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Sri Lanka
+3673,Ramesh Mendis,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+4460,Jeffrey Vandersay,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+4895,Charith Asalanka,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Sri Lanka
+4900,Wanindu Hasaranga,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Rajasthan Royals | Royal Challengers Bengaluru
+4902,Avishka Fernando,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+4903,Lahiru Kumara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+6160,Chamika Karunaratne,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | Sri Lanka
+6180,Praveen Jayawickrama,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+6931,Pathum Nissanka,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Sri Lanka
+7049,Kamil Mishara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+19312,Nuwan Thushara,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Royal Challengers Bengaluru | Sri Lanka
+19316,Maheesh Theekshana,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Rajasthan Royals | Sri Lanka
+22515,Shiran Fernando,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+26519,Janith Liyanage,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+8,Mahendra Singh Dhoni,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+35,Nathan Bracken,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+152,Ravindra Jadeja,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India | Rajasthan Royals
+161,Dwayne Bravo,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+169,Robin Uthappa,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+535,Ambati Rayudu,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+1487,Adam Milne,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | New Zealand | Rajasthan Royals
+1941,Devon Conway,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | New Zealand
+2334,Dwaine Pretorius,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | South Africa
+4101,Mitchell Santner,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Mumbai Indians | New Zealand
+4755,Shivam Dube,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India
+5608,Narayan Jagadeesan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Kolkata Knight Riders
+5668,Hari Nishaanth,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+6408,Subhranshu Senapati,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+6591,KM Asif,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Rajasthan Royals
+6806,Tushar Deshpande,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India | Rajasthan Royals
+7250,Mukesh Choudhary,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+7533,Simarjeet Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Sunrisers Hyderabad
+8661,Matheesha Pathirana,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Kolkata Knight Riders | Sri Lanka
+19998,Rajvardhan Hangargekar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Lucknow Super Giants
+20694,Bhagath Varma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+27956,Prashant Solanki,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Kolkata Knight Riders
+1071,Jaydev Unadkat,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Mumbai Indians | Sunrisers Hyderabad
+2933,Jasprit Bumrah,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Mumbai Indians
+3298,Jofra Archer,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Mumbai Indians | Rajasthan Royals
+4276,Basil Thampi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+4817,Anmolpreet Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Sunrisers Hyderabad
+5034,Murugan Ashwin,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Rajasthan Royals
+5665,Sanjay Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+5940,Riley Meredith,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Mumbai Indians
+6396,Tim David,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Mumbai Indians | Royal Challengers Bengaluru
+6492,Aryan Juyal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Mumbai Indians
+6683,Mayank Markande,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | Mumbai Indians | Sunrisers Hyderabad
+7060,Arjun Tendulkar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Mumbai Indians
+7574,Kumar Kartikeya Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Rajasthan Royals
+7897,Namboori Tilak Varma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Mumbai Indians
+8177,Akash Madhwal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Mumbai Indians | Rajasthan Royals
+20005,Arshad Khan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Lucknow Super Giants | Mumbai Indians
+20006,Ramandeep Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Kolkata Knight Riders
+20029,Rahul Buddhi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+20702,Tristan Stubbs,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Mumbai Indians | South Africa
+25213,Dewald Brevis,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Mumbai Indians | South Africa
+27959,Hrithik Shokeen,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India A | Mumbai Indians
+305,Ravichandran Ashwin,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India | Rajasthan Royals
+813,Jos Buttler,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Gujarat Titans | Rajasthan Royals
+820,Nathan Coulter Nile,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+930,Karun Nair,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Lucknow Super Giants | Rajasthan Royals
+2258,Sanju Samson,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India | Rajasthan Royals
+2320,Trent Boult,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | New Zealand | Rajasthan Royals
+2930,Rassie van der Dussen,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals | South Africa
+3297,Shimron Hetmyer,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals | West Indies
+3323,Jimmy Neesham,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,New Zealand | Rajasthan Royals
+3629,Corbin Bosch,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Rajasthan Royals | South Africa
+4080,KC Cariappa,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+4106,Daryl Mitchell,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | New Zealand | Rajasthan Royals
+4288,Navdeep Saini,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | Rajasthan Royals
+4489,Prasidh Krishna,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India | Rajasthan Royals
+4837,Obed McCoy,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals | West Indies
+6036,Tejas Baroka,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+6314,Devdutt Padikkal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Rajasthan Royals | Royal Challengers Bengaluru
+6423,Riyan Parag,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Rajasthan Royals
+6819,Yashasvi Jaiswal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Rajasthan Royals
+7260,Dhruv Jurel,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Rajasthan Royals
+7545,Kuldeep Sen,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings | Rajasthan Royals
+20693,Kuldip Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Rajasthan Royals
+25667,Anunay Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+28020,Shubham Garhwal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+34118,Irfan Taufiq,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+142,Shikhar Dhawan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+992,Mayank Agarwal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings | Royal Challengers Bengaluru | Sunrisers Hyderabad
+1205,Jonny Bairstow,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Mumbai Indians | Punjab Kings
+1600,Benny Howell,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+1617,Rishi Dhawan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+2003,Bhanuka Rajapaksa,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings | Sri Lanka
+2411,Sandeep Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings | Rajasthan Royals
+3462,Writtick Chatterjee,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+3628,Kagiso Rabada,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Punjab Kings | South Africa
+3782,M Shahrukh Khan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Punjab Kings
+3916,Jitesh Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Punjab Kings
+4250,Baltej Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+5029,Prerak Mankad,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Punjab Kings
+6048,Ishan Porel,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+6161,Rahul Chahar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India A | Punjab Kings
+6464,Arshdeep Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Punjab Kings
+6466,Atharwa Taide,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings | Sunrisers Hyderabad
+7216,Prabhsimran Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Punjab Kings
+7325,Harpreet Brar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+7920,Nathan Ellis,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Chennai Super Kings | Punjab Kings
+8746,Vaibhav Arora,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India A | Kolkata Knight Riders | Punjab Kings
+20114,Ansh Patel,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+26834,Raj Bawa,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Punjab Kings
+88,Faf du Plessis,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Royal Challengers Bengaluru
+143,Dinesh Karthik,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Royal Challengers Bengaluru
+395,Karn Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Royal Challengers Bengaluru
+1219,David Willey,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Lucknow Super Giants | Royal Challengers Bengaluru
+2054,Jason Behrendorff,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Mumbai Indians | Royal Challengers Bengaluru
+2872,Siddarth Kaul,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+3479,Chama Milind,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+4821,Mahipal Lomror,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Mumbai Indians | Royal Challengers Bengaluru
+4847,Finn Allen,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | New Zealand | Royal Challengers Bengaluru
+5039,Rajat Patidar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+6467,Anuj Rawat,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India A | Royal Challengers Bengaluru
+6725,Sherfane Rutherford,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Kolkata Knight Riders | Mumbai Indians
+7134,Luvnith Sisodia,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | Royal Challengers Bengaluru
+7472,Shahbaz Ahmed,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Lucknow Super Giants | Royal Challengers Bengaluru
+7473,Akash Deep,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | Lucknow Super Giants | Royal Challengers Bengaluru
+8085,Suyash Prabhudessai,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+26832,Aneeshwar Gautam Narendra,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+220,David Warner,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Delhi Capitals
+818,Mitchell Marsh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Delhi Capitals | Lucknow Super Giants
+1039,Mandeep Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Kolkata Knight Riders
+2790,Praveen Dubey,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Punjab Kings
+2860,KS Bharat,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Gujarat Titans | Kolkata Knight Riders
+3645,Sarfaraz Khan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Delhi Capitals
+3700,Tim Seifert,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Kolkata Knight Riders | New Zealand
+4325,Ashwin Hebbar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+4373,Mustafizur Rahman,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Bangladesh | Chennai Super Kings | Delhi Capitals
+4641,Lungi Ngidi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Royal Challengers Bengaluru | South Africa
+4816,Khaleel Ahmed,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Delhi Capitals | India
+5928,Prithvi Shaw,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | India
+6285,Kamlesh Nagarkoti,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Delhi Capitals
+6671,Lalit Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+6772,Chetan Sakariya,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Kolkata Knight Riders
+7270,Anrich Nortje,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Kolkata Knight Riders | Lucknow Super Giants
+8040,Ripal Patel,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+26836,Vicky Ostwal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Royal Challengers Bengaluru
+26909,Yash Dhull,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+167,Ajinkya Rahane,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Kolkata Knight Riders
+278,Tim Southee,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | New Zealand
+344,Sheldon Jackson,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+403,Umesh Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India | Kolkata Knight Riders
+781,Sunil Narine,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+1107,Mohammad Nabi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Kolkata Knight Riders | Mumbai Indians
+1183,Alex Hales,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Kolkata Knight Riders
+1318,Andre Russell,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | West Indies
+3451,Baba Indrajith,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+4246,Nitish Rana,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Kolkata Knight Riders | Rajasthan Royals
+4708,Rinku Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Kolkata Knight Riders
+6038,Pratham Sing,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+6256,Varun Chakravarthy,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Kolkata Knight Riders
+6284,Anukul Roy,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+6286,Shivam Mavi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India | Kolkata Knight Riders
+7327,Rasikh Salam,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | India A | Kolkata Knight Riders
+7498,Abhijeet Tomar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+20894,Aman Khan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Delhi Capitals | Kolkata Knight Riders
+27380,Harshit Kaushik,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | United Arab Emirates
+28018,Ashok Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India | Kolkata Knight Riders
+28019,Ramesh Kumar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+29888,Harshit Rana,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Kolkata Knight Riders
+1389,Sean Abbott,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Sunrisers Hyderabad
+1440,Rahul Tripathi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India | Kolkata Knight Riders
+1568,Kane Williamson,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | New Zealand | Sunrisers Hyderabad
+2756,Shashank Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings | Sunrisers Hyderabad
+2781,Ravikumar Samarth,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+2852,Jagadeesha Suchith,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+3469,Shreyas Gopal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Mumbai Indians | Sunrisers Hyderabad
+3605,Aiden Markram,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | South Africa | Sunrisers Hyderabad
+4211,Vishnu Vinod,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Punjab Kings | Sunrisers Hyderabad
+4265,T Natarajan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Sunrisers Hyderabad
+4853,Glenn Phillips,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | New Zealand | Sunrisers Hyderabad
+6281,Abhishek Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Sunrisers Hyderabad
+6487,Priyam Garg,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Sunrisers Hyderabad
+7240,FazalHaq Farooqi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Rajasthan Royals | Sunrisers Hyderabad
+7269,Sushant Mishra,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Rajasthan Royals | Sunrisers Hyderabad
+7446,Abdul Samad,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Sunrisers Hyderabad
+7808,Marco Jansen,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings | South Africa | Sunrisers Hyderabad
+8530,Kartik Tyagi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Kolkata Knight Riders | Sunrisers Hyderabad
+25048,Umran Malik,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Kolkata Knight Riders | Sunrisers Hyderabad
+28021,Saurabh Dubey,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | Sunrisers Hyderabad
+109,Wriddhiman Saha,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans
+147,Pradeep Sangwan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans
+1028,Varun Aaron,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans
+1077,David Miller,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Gujarat Titans | Lucknow Super Giants
+1566,Mohammed Shami,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India | Lucknow Super Giants
+2299,Gurkeerat Singh Mann,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans
+2877,Vijay Shankar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Gujarat Titans
+3275,Alzarri Joseph,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Royal Challengers Bengaluru | West Indies
+3320,Jayant Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans
+3330,Hardik Pandya,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India | Mumbai Indians
+3926,Rahul Tewatia,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans
+4494,Abhinav Manohar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Sunrisers Hyderabad
+4692,Lockie Ferguson,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Kolkata Knight Riders | New Zealand
+4722,Rashid Khan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Gujarat Titans
+5577,Sai Kishore,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India A
+6288,Shubman Gill,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India
+6489,Darshan Nalkande,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Gujarat Titans
+6674,Rahmanullah Gurbaz,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Gujarat Titans | Kolkata Knight Riders
+7322,Yash Dayal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India | Royal Challengers Bengaluru
+7967,Noor Ahmad,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Chennai Super Kings | Gujarat Titans
+23450,Sai Sudharsan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India
+198,Manish Pandey,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Kolkata Knight Riders | Lucknow Super Giants
+914,Krishnappa Gowtham,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+1829,Shahbaz Nadeem,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+2101,Quinton de Kock,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | Lucknow Super Giants | Mumbai Indians
+2573,Evin Lewis,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | West Indies
+2869,Ankit Rajpoot,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+2884,Manan Vohra,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+2985,Mark Wood,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Lucknow Super Giants
+3299,Andrew Tye,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+4219,Krunal Pandya,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Royal Challengers Bengaluru
+6460,Ayush Badoni,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India A | Lucknow Super Giants
+6669,Mohsin Khan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+20023,Karan Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+27960,Mayank Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Lucknow Super Giants
+4604,Mitchell Swepson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+2442,Lahiru Madushanka,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+4947,Kasun Rajitha,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+5953,Lakshan Sandakan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+6473,Nuwanidu Fernando,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+295,Wayne Parnell,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru | South Africa
+768,Reeza Hendricks,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+1944,Keshav Maharaj,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Rajasthan Royals | South Africa
+2361,Temba Bavuma,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+4237,Tabraiz Shamsi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+4260,Heinrich Klaasen,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,South Africa | Sunrisers Hyderabad
+499,Shakib Al Hasan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Bangladesh | Kolkata Knight Riders
+507,Mohammad Mahmudullah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+2218,Anamul Haque,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+2671,Liton Das,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Bangladesh | Kolkata Knight Riders
+2680,Nurul Hasan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+2681,Taskin Ahmed,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+3281,Mosaddek Hossain,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+3304,Munim Shahriar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+4658,Nasum Ahmed,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+5837,Mahedi Hasan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+5838,Shohidul Islam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+5839,Yasir Ali Chowdhury,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+5882,Afif Hossain,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+7344,Shoriful Islam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+38855,Mohammad Saifuddin,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+1810,Devon Thomas,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+2661,Shamarh Brooks,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+4838,Keemo Paul,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+985,Brendan Taylor,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+1116,Craig Ervine,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+1159,Tendai Chatara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+1541,Sean Williams,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+1649,Regis Chakabva,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+2463,Ryan Burl,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+2983,Richmond Mutumbami,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+2984,Sikandar Raza,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings | Zimbabwe
+3995,Donald Tiripano,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+4639,Wellington Masakadza,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+4867,Wesley Madhevere,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+4871,Brandon Mavuta,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+4874,Richard Ngarava,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+4876,Milton Shumba,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+6523,Blessing Muzarabani,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | Royal Challengers Bengaluru | Zimbabwe
+6664,Dion Myers,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+7046,Tinashe Kamunhukamwe,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+7709,Ainsley Ndlovu,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+7894,Tony Munyonga,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+8600,Tadiwanashe Marumani,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+8664,Victor Nyauchi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+21780,Ernest Masuku,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+21781,Clive Madande,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+21784,Brad Evans,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+21786,Tanaka Chivanga,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+21787,Takudzwanashe Kaitano,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+22134,Luke Jongwe,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+24887,Innocent Kaia,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+2533,Najibullah Zadran,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+3306,Afsar Zazai,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+3544,Usman Ghani,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+3545,Ihsanullah Janat,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+3550,Sharafuddin Ashraf,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+4201,Fareed Malik,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+5808,Karim Janat,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Afghanistan A | Gujarat Titans
+6433,Darwish Rasooli,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+6676,Azmatullah Omarzai,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Gujarat Titans | Punjab Kings
+7152,Hazratullah Zazai,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+7227,Nijat Masood,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+443,Paul Stirling,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+1101,George Dockrell,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+3595,Andy McBrine,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+3720,Craig Young,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+3954,Andrew Balbirnie,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+4802,Stephen Doheny,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+4807,Joshua Little,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Ireland
+4812,Harry Tector,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+4814,Lorcan Tucker,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+5379,Mark Adair,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+5441,Barry McCarthy,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+7094,Curtis Campher,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+7741,Gareth Delany,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+17430,Conor Olphert,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+728,Dawid Malan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+4409,Sam Curran,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | England | Punjab Kings
+5562,Richard Gleeson,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | England | Mumbai Indians
+6297,Matthew Parkinson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+274,Martin Guptill,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+2526,Ish Sodhi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+3374,Mark Chapman,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+4684,Dane Cleaver,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+4856,Benjamin Sears,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+5892,Blair Tickner,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+6512,Michael Bracewell,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,New Zealand | Royal Challengers Bengaluru
+22920,Jacob Duffy,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,New Zealand | Royal Challengers Bengaluru
+25541,Michael Rippon,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+22137,Fionn Hand,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+772,Rilee Rossouw,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Punjab Kings | South Africa
+3627,Andile Phehlukwayo,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+6628,Gerald Coetzee,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Mumbai Indians | South Africa
+3280,Nazmul Hossain Shanto,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+3282,Mehidy Hasan Miraz,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+6643,Hasan Mahmud,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+7901,Parvez Emon,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+28911,John Masara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+6188,Simi Singh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+17424,Graham Hume,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+505,Mushfiqur Rahim,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+2210,Sabbir Rahman,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+5844,Ebadot Hossain,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+6645,Mohammad Sheikh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+2485,Babar Azam,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+2490,Mohammad Nawaz,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+2892,Asif Ali,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+2921,Fakhar Zaman,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+3024,Mohammad Rizwan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+3033,Usman Qadir,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+3056,Iftikhar Ahmed,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+3623,Hasan Ali,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+4111,Khushdil Shah,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+4926,Shadab Khan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+6355,Shaheen Afridi,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+6677,Mohammad Hasnain,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+7338,Haider Ali,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+7364,Haris Rauf,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+7696,Mohammad Wasim,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+8049,Naseem Shah,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+19530,Shahnawaz Dhani,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+2407,Dhananjaya de Silva,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+4901,Asitha Fernando,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+6176,Ashen Bandara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+6932,Pramod Madushan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+7689,Dilshan Madushanka,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Sri Lanka | Sunrisers Hyderabad
+1109,Samiullah Shinwari,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+3260,Hashmatullah Shahidi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+5809,Naveen ul Haq,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Lucknow Super Giants
+6436,Qais Ahmad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+6448,Ibrahim Zadran,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+6450,Mujeeb Ur Rahman,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Kolkata Knight Riders | Mumbai Indians
+2972,Yasim Murtaza,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+3373,Aizaz Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+3377,Babar Hayat,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+3382,Nizakat Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+3383,Kinchit Shah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+5750,Ehsan Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+6101,Devang Bulsara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+6705,Scott McKechnie,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+6712,Hamed Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+6784,Hassan Mohammad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+7200,Aftab Hussain,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+7201,Haroon Arshad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+7935,Mohammad Ghazanfar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+19012,Zeeshan Ali,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+19016,Aliyaan Zahir Mohammad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+19020,Ateeq Iqbal,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+19043,Dhananjay Rao,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+19125,Ayush Shukla,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+21192,Ahan Trivedi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+21194,Bilal Akhtar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+21196,Mohammad Waheed,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+21197,Wajid Shah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+232,Tom Cooper,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+456,Pieter Seelaar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+2996,Stephanus Myburgh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+2997,Paul van Meekeren,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+3771,Vivian Kingma,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+3772,Logan van Beek,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+4412,Max ODowd,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+6034,Shane Snater,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+6226,Fred Klaassen,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+6514,Anil Nidamanuru,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+6881,Scott Edwards,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+6985,Bas de Leede,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+7710,Brandon Glover,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+7909,Philippe Boissevain,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+7910,Antonius Staal,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+7912,Vikramjit Singh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+7914,Clayton Floyd,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+19902,Tim Pringle,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+22187,Ryan Klein,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+22188,Aryan Dutt,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+22189,Musa Ahmad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+24381,Shariz Ahmad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+2246,Tom Latham,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+3174,Matt Henry,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Lucknow Super Giants | New Zealand
+3040,Kashif Daud,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+3253,Rohan Mustafa,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+3255,Ahmed Raza 1,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+6035,Chirag Suri,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+6497,Muhammad Usman,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+6502,Mohammad Boota,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+6503,Zahoor Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+7194,Rahul Bhatia,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+7406,Rizwan CP,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8005,Zawar Farid,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8007,Waheed Ahmed,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8009,Junaid Siddique,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8010,Darius D Silva,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8301,Asif Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8637,Vriitya Aravind,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8638,Basil Hameed,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8639,Kartik Meiyappan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8719,Aryan Lakra,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8726,Alishan Sharafu,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8727,Sanchit Sharma,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+16498,Sultan Ahmad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+19754,Raja Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+22565,Muhammad Waseem,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+27391,Vishnu Sukumaran,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+27464,Aayan Afzal Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+33442,Fahad Choudhary,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+33443,Sabir Ali,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+3371,Jamie Atkinson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+5749,Shahid Wasif,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+6085,Dan Pascoe,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+19050,Adit Gorawara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+21283,Vikas Sharma,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+3831,Arjun Mutreja,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+3832,Rezza Gaznavi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+3835,Anish Param,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+3839,Amjad Mahboob,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+6199,Navin Param,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+6202,Anantha Krishna,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+6203,Surendran Chandramohan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+7925,Rohan Rangarajan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+7926,Manpreet Singh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+7927,Janak Prakash,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+7928,Vinoth Baskaran,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+7929,Aryaman Sunil Uchil,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+7931,Aritra Dutta,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+8014,Avi Dixit,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+31834,Neil Anant Karnik,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+31835,Akshay Roopak Puri,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+31836,Aman Desai,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+33351,Vikas Puri,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+33437,Jeevan Santhanam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+33438,Vihaan Maheshwar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+33439,Aryaveer Chaudhry,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+33440,Adwitya Bhargava,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+33441,Abdul Rahman Bhadelia,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Singapore
+3849,Ali Zaheer,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+15269,Mohammed Aslam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+15271,Usmangani Ibrahim Patel,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+15274,Ravija Sandaruwan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+15275,Mohammad Amin,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+15278,Muhammad Kashif,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+15279,Shiraz Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+15280,Sayed Monib,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+15303,Bilal Tahir,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+24346,Mohamed Shafeeq,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+25501,Meet Bhavsar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+25502,Adnan Idrees,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+25503,Nawaf Ahmed,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+25507,Edson Silva,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+31107,Yasin Patel,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+31156,Shahrukh Quddus,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+34694,Haroon Shahid,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Kuwait
+5939,Cameron Green,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Kolkata Knight Riders | Mumbai Indians
+1171,Chris Woakes,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Punjab Kings
+2321,Olly Stone,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+2379,Ben Duckett,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | England
+3660,Luke Wood,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Gujarat Titans | Mumbai Indians
+3955,Tom Helm,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+6272,William Jacks,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Mumbai Indians | Royal Challengers Bengaluru
+7744,Jordan Cox,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Royal Challengers Bengaluru
+3097,Shan Masood,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+5979,Abrar Ahmed,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+8741,Mohammad Haris,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+19145,Aamer Jamal,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+4636,Bjorn Fortuin,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+2213,Soumya Sarkar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+8380,Mohammad Rishad Hossain,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+7195,Fahad Nawaz,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+27462,Adhitya Shetty,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+1327,Johnson Charles,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | West Indies
+2650,Raymon Reifer,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+3135,Yannic Cariah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+1195,Ben Stokes,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | England
+5041,Mukesh Kumar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | India
+3669,Sadeera Samarawickrama,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+7052,Dunith Wellalage,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+6025,Henry Shipley,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+6515,Benjamin Lister,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+4815,Benjamin White,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+6919,Tyrone Kane,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+17413,Neil Rock,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+17432,Ross Adair,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+1233,Gary Ballance,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+8662,Kevin Kasuza,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+3697,Kyle Jamieson,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Delhi Capitals | New Zealand
+4235,Sisanda Magala,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | South Africa
+7553,Ajay Mandal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Delhi Capitals
+7896,Akash Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Lucknow Super Giants | Sunrisers Hyderabad
+26830,Nishant Kumar Sindhu,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Gujarat Titans | India A
+26913,Shaik Rasheed,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India A
+23,Piyush Chawla,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+2863,Sandeep Warrier,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Mumbai Indians
+6697,Shams Mulani,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+7059,Nehal Wadhera,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India A | Mumbai Indians | Punjab Kings
+8763,Duan Jansen,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+36984,Raghav Goyal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+2531,Joe Root,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+5071,Akash Vasisht,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+8182,Donovan Ferreira,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Rajasthan Royals | South Africa
+20802,Abdul Basith,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+35071,Kunal Rathore,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+1040,Harpreet Bhatia,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings | United Arab Emirates
+3727,Matthew Short,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Chennai Super Kings | Punjab Kings
+27970,Gurnoor Brar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | India A | Punjab Kings
+31227,Vidhwath Kaverappa,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+36983,Mohit Rathee,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings | Royal Challengers Bengaluru
+43774,Shivam Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+393,Kedar Jadhav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+4487,Vyshak Kumar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Punjab Kings
+5680,R Sonu Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+6494,Manoj Bhandage,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+26197,Avinash Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+34991,Rajan Kumar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+36981,Himanshu Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+28,Ishant Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Gujarat Titans
+19714,Abishek Porel,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | India A
+1045,David Wiese,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+6162,Kulwant Khejroliya,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Kolkata Knight Riders
+36982,Suyash Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India A | Kolkata Knight Riders | Royal Challengers Bengaluru
+39672,Aarya Desai,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+4716,Mayank Dagar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru | Sunrisers Hyderabad
+6428,Upendra Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+6774,Samarth Vyas,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+7304,Sanvir Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+8221,Nitish Reddy,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Sunrisers Hyderabad
+20989,Vivrant Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+2878,Mohit Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Gujarat Titans
+6457,Urvil Patel,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Gujarat Titans
+158,Amit Mishra,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+1701,Swapnil Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | Royal Challengers Bengaluru
+6287,Yash Thakur,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Lucknow Super Giants
+7575,Arpit Guleria,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+7625,Suryansh Shedge,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Lucknow Super Giants
+8580,Yudhvir Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India A | Lucknow Super Giants | Rajasthan Royals
+2523,Will Young,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+4854,Rachin Ravindra,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Kolkata Knight Riders | New Zealand
+25534,Chad Bowes,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+1481,Kusal Perera,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+6172,Lasith Croospulle,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+4372,Rony Talukder,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+6389,Tanvir Islam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+6651,Towhid Hridoy,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+7903,Shamim Hossain,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+19535,Rejaur Rahman Raja,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+741,Garry Park,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+5566,Tom Abell,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+18824,Faran Afzal,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+24475,Rehan Ahmed,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | England
+24754,Atif Mehmood,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+25554,Darren Walker,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+4773,Jaker Ali Anik,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+22471,Matthew Humphreys,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+3578,Imad Wasim,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+5189,Faheem Ashraf,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+6441,Abdullah Shafique,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+6783,Azam Khan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+7355,Tayyab Tahir,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+7690,Saim Ayub,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+25030,Zaman Khan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+27516,Ihsanullah Ihsanullah,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+2214,Gulbadin Naib,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Delhi Capitals
+8647,Sediqullah Atal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Afghanistan A | Delhi Capitals
+4662,Cole McConchie,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+1104,Mohammad Shahzad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+6449,Wafadar Momand,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+5231,Oshane Thomas,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+4793,Dean Foxcroft,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+8611,Adithya Ashok,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+8217,Ansh Tandon,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8723,Mohammed Faraazuddin,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+17315,Lovepreet bajwa,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+27460,Ali Naseer,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+27469,Aryansh Sharma,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+27471,Jash Giyanani,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+31513,Ethan Dsouza,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+42548,Muhammad Jawadullah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+19892,Theo van Woerkom,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+6097,Brydon Carse,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Sunrisers Hyderabad
+6196,Josh Tongue,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+7008,Gus Atkinson,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Kolkata Knight Riders
+33009,John Turner,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+2483,Lizaad Williams,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Mumbai Indians | South Africa
+6342,Matthew Breetzke,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | South Africa
+2373,Ashton Turner,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Lucknow Super Giants
+6354,Spencer Johnson,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Chennai Super Kings | Gujarat Titans
+6398,Aaron Hardie,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Punjab Kings
+8424,Tanveer Sangha,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+3641,Ben Dwarshuis,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Punjab Kings
+4221,Chris Green,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+6395,Josh Philippe,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+2343,Beuran Hendricks,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+7312,Nandre Burger,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals | South Africa
+8805,Ottneil Baartman,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+6926,Matty Potts,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+3276,Gudakesh Motie,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+8295,Matthew Forde,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+4663,Henry Nicholls,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+4665,Tom Blundell,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+4686,Joshua Clarkson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+8614,William ORourke,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | New Zealand
+7905,Tanzim Sakib,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+2534,Rahmat Shah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+6432,Ikram Khil,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+17919,Mohammad Saleem Safi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+3077,Usama Mir,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+3091,Sahibzada Farhan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+7699,Abbas Afridi,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+26839,Haseebullah Khan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+5738,Xavier Bartlett,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Punjab Kings
+5827,Wes Agar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+7341,Jake McGurk,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Delhi Capitals
+50226,Luke Watson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+5835,Carl Mumba,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+24017,Brian Bennett,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+28915,Trevor Gwandu,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+8238,Sameer Rizvi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | Delhi Capitals | India A
+48551,Aravelly Avanish,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+6488,Harvik Desai,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+7548,Shivalik Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+26663,Kwena Maphaka,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Rajasthan Royals | South Africa
+27964,Anshul Kamboj,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India A | Mumbai Indians
+37052,Naman Dhir,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Mumbai Indians
+3967,Tom Kohler,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+6486,Tanush Kotian,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India A | Rajasthan Royals
+8140,Abid Mangnoo,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+25139,Shubham Dubey,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+6654,Tanay Thyagarajan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+8101,Ashutosh Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | India A | Punjab Kings
+43967,Vishwanath Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+49665,Prince Choudhary,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+3144,Thomas Curran,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+27962,Saurav Chauhan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+3651,Ricky Bhui,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+8251,Kumar Kushagra,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Gujarat Titans | India
+8266,Sumit Kumar 1,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+45989,Swastik Chikara,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | Royal Challengers Bengaluru
+26906,Angkrish Raghuvanshi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+32862,Allah Ghazanfar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Afghanistan | Afghanistan A | Kolkata Knight Riders
+35318,Sakib Hussain,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders | Sunrisers Hyderabad
+7197,Jhatavedh Subramanyan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+19315,Vijayakanth Viyaskanth,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sri Lanka | Sri Lanka A | Sunrisers Hyderabad
+4486,BR Sharath,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans
+31529,Robin Minz,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | Mumbai Indians
+34969,Manav Suthar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans
+6237,Manimaran Siddharth,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+42845,Arshin Kulkarni,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+47050,Shamar Joseph,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | West Indies
+332,Angelo Mathews,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+2439,Akila Dananjaya,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+4904,Kamindu Mendis,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sri Lanka | Sunrisers Hyderabad
+21791,J Gumbie,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+8652,Mohammad Ishaq,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+4251,Peter Moor,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+7456,James McCollum,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+17418,Matthew Foster,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+1102,Noor Ali Zadran,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+3543,Shahidullah Kamal,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+3546,Nasir Jamal,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+3562,Zia-ur-Rehman Akbar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+3563,Zahir Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+6675,Bahir Mehboob,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+8032,Abdul Malik,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+17898,Bilal Sami,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+17909,Riaz Hassan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+17911,Nangeyalia Kharote,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+24775,M.Naveed Zadran,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+24779,Ijaz Ahmadzai,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+25369,Hashim Khalil Gurbaz,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+44003,Mohammad Ibrahim,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+2249,Taijul Islam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+7354,Al Alis,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+2386,Niroshan Dickwella,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+28967,Tim Robinson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+29066,Zakary Foulkes,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | New Zealand
+470,Mohammad Amir,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+3083,Mohammad Ali,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+3489,Salman Agha,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+8739,Muhammad Irfan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+20327,Usman Khan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+18206,Tom Hartley,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+20229,Mohammad Ali,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+7900,Tanzid Hasan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+7978,Johnathan Campbell,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+19147,Faraz Akram,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+21978,Amir Naqvi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+8654,Cooper Connolly,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Punjab Kings
+6440,Omair Yousuf,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+34466,Arafat Minhas,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+34485,Sufiyan Muqeem,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+47724,Jahandad Khan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+757,Sybrand Engelbrecht,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+1791,Wesley Barresi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+27743,DT Doram,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+42811,Michael Levitt,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+46378,Kyle Klein,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+418,Richard Berrington,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+2296,Safyaan Sharif,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+3361,Michael Leask,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+3415,Matthew Cross,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+3683,Gavin Main,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+3686,CB Sole,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+3689,Mark Watt,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+4102,George Munsey,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+6900,Michael Jones,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+7911,Oliver Hairs,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+24812,Chris Greaves,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+24978,Jack Jarvis,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+24982,Charlie Tear,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+30925,Bradley Currie,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+34522,Brandon McMullen,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+34527,Jasper John Davidson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+3637,Dayyaan Galiem,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+4007,Ryan Rickelton,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | South Africa
+4229,George Linde,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants | South Africa
+5866,Patrick Kruger,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+25128,Nqabayomzi Peter,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+25216,Andile Simelane,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+4779,Pieter Willem Mulder,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,South Africa | Sunrisers Hyderabad
+492,Andre Fletcher,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+6574,Alick Athanaze,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+3635,Jason Smith,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+2382,Jamie Overton,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | England
+8311,Dan Mousley,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+23311,Jacob Bethell,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,England | Royal Challengers Bengaluru
+34957,Jafer Chohan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+4830,Keacy Carty,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+4842,Shamar Springer,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+6795,Terrance Hinds,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+8326,Jayden Seales,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+37201,Jewel Andrew,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+24767,Ripon Mondol,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+37939,Nahid Rana,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+2418,Justin Greaves,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+7906,Rakibul Hasan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+7044,Jamie Smith,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+7702,Chamindu Wickramasinghe,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+2750,Alex Carey,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+4227,Marnus Labuschagne,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+41863,Josh Hull,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+5561,Brad Wheal,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+57747,Charlie Cassell,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Scotland
+23195,Gavin Hoey,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+6984,Saqib Zulfiqar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+25017,Olivier Elenbaas,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+42810,Noah Croes,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+45457,Zach Lion Cachet,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+2293,Junaid Siddiqui,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+3337,Jeremy Gordon,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+4248,Pargat Singh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+4588,Navneet Dhaliwal,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+6263,Aaditya AVaradarajan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+6995,Saad Zafar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+7001,Dilon Heyliger,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+7002,Nicholas Kirton,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+7003,Rayyan Pathan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+7755,Harsh Thaker,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+7756,Kaleem Sana,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+7761,Ravinderpal Singh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+8405,Kanwarpal Tathgur,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+8408,Shreyas Movva,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+27987,Rishiv Joshi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+32399,Aaron Johnson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+32401,Akhil Kumar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+39991,Parveen Kumar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+43250,Dilpreet Singh Bajwa,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Canada
+773,Shadley Van Schalkwyk,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+1801,Nitish Kumar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+2412,Smit Patel,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+2887,Harmeet Singh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+3238,Milind Kumar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+3882,Steven Taylor,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+4438,Jasdeep Singh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+4730,Ali Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+5547,Nosthush Kenjige,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+5877,Andries Gous,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+7634,Aaron Jones,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+7915,Monank Patel,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+15629,Shayan Jahangir,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+21182,Utkarsh Srivastava,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+24489,Abhishek Paradkar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+25809,Juanoy Drysdale,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+26916,Yasir Mohammad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+30927,Saiteja Mukkamalla,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United States Of America
+7140,Senuran Muthusamy,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+43798,Lhuan Pretorius,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals | South Africa
+8632,Aaqib Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,India A
+8729,Haider Shah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+26646,Rahul Chopra,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+27373,Muhammad Farooq,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+27465,Nilansh Keswani,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+27466,Dhruv Parashar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+28788,Tanish Suri,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+28978,Muhammad Farooq,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+36153,Syed Haider,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+39444,Basil Hameed,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+41110,Mayank Kumar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+47694,Omid Rahman,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+3802,Anshuman Rath,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+7945,Nasrulla Rana,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+19124,Anas Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+21388,Martin Coetzee,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+29862,Ali Hassan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+34543,Darsh Vora,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+37621,Rajab Hussain,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+3445,Khalid Kail,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+3613,Shakeel Ahmed,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+3856,Zeeshan Maqsood,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+3858,Jatinder Singh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+3871,Aamir Kaleem,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+3876,Sufyan Mehmood,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+4450,Mehran Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+4974,Mohammad Nadeem,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+6764,Bukkapatnam Siddharth,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+7937,Wasim Ali,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+7938,Sandeep Goud 1,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+7940,Aqib Ilyas,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+7942,Jay Odedara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+8015,Kaleemullah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+24239,Rafiullah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+24245,Shoaib Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+24366,Kashyap Prajapati,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+24372,Muzahir Raza,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+25091,Ayan Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+25231,Samay Shrivastava,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+27057,Pratik Athavale,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+27059,Karan Sonavale,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+27137,Hammad Mirza,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+6443,Rohail Nazir,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+6922,Abdul Samad,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+7692,Qasim Akram,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+20310,Ahmed Daniyal,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+26845,Mehran Mumtaz,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+27517,Yasir Khan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+47017,Mohammad Jnr,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+3285,Abu Haider,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+4780,Mohammad Saif Hassan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+7908,Mohammad Akbar Ali,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+25341,Mahfuzur Rabby,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+27259,Jishan Alam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+39455,Maruf Mridha,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+39461,Wasi Sddiquee,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+2001,Yashodha Lanka,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+6179,Nipun Ransika,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+7155,Sahan Arachchige,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+7704,Pavan Rathnayake,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+7708,Kavindu Nadeeshan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+8388,Ahan Wickramasinghe,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+19309,Lahiru Udara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+26514,Nimesh Vimukthi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+27504,Dushan Hemantha,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+38050,Isitha Wijesundera,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+39630,Dinura Kalupahana,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+39657,Eshan Malinga,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sri Lanka | Sri Lanka A | Sunrisers Hyderabad
+8029,Sadiqullah Pacha,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+8033,Abdul Rahmani,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+17937,Zubaid Akbari,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+25353,Numan Shah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+32705,Faridoon Dawoodzai,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+34910,Hassan Eisakhil,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+39479,Bashir Ahmad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+47314,Wafiullah Tarakhil,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+4857,Nathan Smith,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+19894,Mitchell Hay,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+4790,Lutho Sipamla,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+8852,Mihlal Mpongwana,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+21790,Tashinga Musekiwa,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+33969,Tinotenda Maposa,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+23467,Gurjapneet Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | India A
+35072,Ramakrishna Ghosh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+48504,Ayush Mhatre,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+48555,Andre Siddharth,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+49670,Vansh Bedi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+4077,KL Shrijith,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+6359,Raghu Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+8634,Ashwani Kumar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+45381,PV Satyanarayan Raju,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+48557,Vignesh Puthur,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | Rajasthan Royals
+49027,Bevon Jacobs,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians | New Zealand
+50284,Vaibhav Sooryavanshi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Rajasthan Royals
+19098,Pyla Avinash,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+19781,Mitchell Owen,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Punjab Kings
+25669,Priyansh Arya,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India A | Punjab Kings
+26911,Harnoor Pannu,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+37731,Musheer Khan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+58727,Abhinandan Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+32244,Tripurana Vijay,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+44491,L Manvanth Kumar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+46066,Vipraj Nigam,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals | India
+56830,Madhav Tiwari,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+56800,Shivam Shukla,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+2862,Sachin Baby,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+4824,Zeeshan Ansari,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+25138,Harsh Dubey,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | India A | Sunrisers Hyderabad
+33067,Ravichandran Smaran,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+47370,Aniket Verma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+6526,Himmat Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+20077,Yuvraj Chaudhary,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+58134,Digvesh Rathi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+58246,Prince Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,India | Lucknow Super Giants
+47403,Newman Nyamhuri,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+49003,Hasan Nawaz,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+17419,Tim Tector,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+2467,NP Mayavo,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+25011,Liam Mccarthy,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+4833,Jyd Goolie,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+6350,Matthew Kuhnemann,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+36553,Jediah Blades,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+3038,Hussain Talat,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+8771,Rubin Hermann,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+35506,Quentin Sampson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+2359,Prenelan Subrayen,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+4784,Tony de Zorzi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+38044,Mahli Beardman,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+6356,Khaled Ahmed,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh
+27364,Simranjeet Kang,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+27390,Matiullah Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+28756,Haider Ali,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+29080,Muhammad Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+39374,Muhammad Zohaib,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+47371,Zuhaid Zubair,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+20704,Salman Mirza,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+24473,Sonny Baker,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+24479,James Coles,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+4458,AHT Donald,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+19307,Tharindu Rathnayake,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+6644,Mahidul Ankon,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+24772,Suliman Safi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+24773,Bilal Ahmad Tarin,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+29833,Bashir Ahmad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+56685,Abdullah Ahmadzai,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+28655,Muhammad Rohid,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+4970,Adil Mehmood,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+64604,Kalhan Challu,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+26922,Ashish Odedra,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+26988,Jitenkumar Ramanandi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+27004,Hassnain Shah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+27071,Vinayak Shukla,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+27146,Imran Muhammad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+34546,Aryan Bisht,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+35102,Zikria Islam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+35122,Shah Faisal,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+35133,Sufyan Yousuf,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+37559,Nadeem Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+39638,Vishen Halambage,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+4983,Sikander Zulfiqar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+24217,Sebastiaan Braat,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+45022,Cedric De Lange,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+59853,Ben Fletcher,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Netherlands
+8329,Scott Currie,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+44293,Jordan Neill,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+55747,Benjamin Calitz,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+6739,Amir Jangoo,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+7916,Karima Gore,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+8298,Ramon Simmonds,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+15551,Ackeem Auguste,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+36551,Zishan Motara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+60609,Navin Bidaisee,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+3775,Sompal Kami,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+4417,Karan KC,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+4880,Aarif Sheikh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+4881,Dipendra Airee,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+4882,Kushal Bhurtel,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+4887,Sandeep Lamichhane,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+7120,Rohit Paudel,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+7403,Lalit Rajbanshi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+7409,Sundeep Jora,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+7924,Kushal Malla,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+8241,Lokesh Bam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+20163,Aasif Sheikh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+20175,Nandan Yadav,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+20316,Shahab Alam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+24803,Gulshan Jha,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+29075,Aadil Ansari,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+52338,Usman Tariq,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+6727,Zak Crawley,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,England
+5977,Khary Pierre,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+988,Graeme Cremer,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+28664,Zahid Ali,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+29558,Muhammad Arfan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+40391,Mohammad Faraz Jafri,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+41509,Yayin Rai,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+49265,Ahmed Tariq,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+49268,Sohaib Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+37311,Shiv Mathur,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Hong Kong
+24243,Ubaid Ullah,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+24370,Pruthvikumar Damubhai,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+35120,Narayan Saishiv,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+37572,Shafiq Jan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+47291,Md Yousuf,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+60208,Shuaib Balushi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Oman
+8743,Muhammad Shehzad,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+19132,Khurram Shehzad,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+19969,Mubasir Khan,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+26843,Maaz Sadaqat,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan | Pakistan A
+26848,Ghazi Ghouri,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+33675,Mohammad Naeem,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+34880,Saad Masood,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+46982,Shahid Aziz,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+46996,Mohammad Faiq,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+48278,Ubaid Shah,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+69806,Mohammad Salman,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan A
+5872,Habibur Rahman,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+7904,Mohammad Chowdhury,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+16284,Habibur Rahman Sohan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+22870,Abdul Gaffar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+26854,SM Meherob Hasan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+26858,Ariful Islam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+48616,Abdul Saqlain,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh | Bangladesh A
+53426,Tofael Ahmed,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+60689,Zawad Abrar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+63136,Shadhin Islam,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Bangladesh A
+6483,Nishan Madushka,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+26530,Treveen Mathew,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+33114,Milan Rathnayake,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka | Sri Lanka A
+39637,Garuka Sanketh,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+39648,Sohan de Livera,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+63779,Kavindu Dilhara,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+71107,Nimnaka Ratnayake,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka A
+7966,Farmanullah Safi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+7981,Imran Mir,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+8653,Rahmanullah Zadran,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+18592,Ijaz Ahmad Mehri,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+24780,Yama Arab,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+66103,Noor Rahman,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan | Afghanistan A
+68410,Rahmatullah Zadran,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan A
+33095,Macneil Noronha,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+45966,Prashant Veer,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+46137,Kartik Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings
+46929,Dian Forrester,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Chennai Super Kings | South Africa
+6461,Mayank Rawat,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+7279,Atharva Ankolekar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+31205,Ruchit Ahir,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+43917,Krish Bhagat,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+48953,Danish Malewar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+71311,Mohd Izhar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Mumbai Indians
+41503,Yash Punja,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+43965,Emanjot Singh Chahal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+47523,Aman Rao Perala,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+60700,Ravi Singh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+67036,Brijesh Sharma,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Rajasthan Royals
+58864,Vishal Nishad,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Punjab Kings
+36328,Mangesh Yadav,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+43996,Vihaan Malhotra,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+66540,Kanishk Chouhan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+68280,Satvik Deswal,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Royal Challengers Bengaluru
+7095,Gideon Peters,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+8141,Auqib Nabi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+48575,Sahil Parakh,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Delhi Capitals
+7534,Sarthak Ranjan,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+58135,Tejasvi Dahiya,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+71016,Daksh Kamra,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Kolkata Knight Riders
+6166,Jack Edwards,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Australia | Sunrisers Hyderabad
+23408,Amit Kumar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+25132,Praful Hinge,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+25679,Salil Arora,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+56817,Shivang Kumar,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+62526,Krains Fuletra,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+63497,RS Ambrish,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+66513,Omkar Tarmale,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Sunrisers Hyderabad
+6351,Yarra Prithviraj,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans
+28970,Connor Esterhuizen,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Gujarat Titans | South Africa
+31518,Akshat Raghuwanshi,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+45749,Mukul Choudhary,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+45965,Naman Tiwari,ELIGIBLE_ACTIVE_IPL,Active participant in the Indian Premier League (2022-2026).,True,Lucknow Super Giants
+37879,Khawaja Nafay,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+8623,Kristian Clarke,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+7241,Ziaur Rahman,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+3986,Matthew Renshaw,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+4695,Nick Kelly,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+6565,Katene Clarke,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+8389,Jayden Lennox,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+6402,Eathan Bosch,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+26728,Jordan Hermann,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+50062,Nqobani Mokoena,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,South Africa
+6566,Matthew John Fisher,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,New Zealand
+26861,Reuben Wilson,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+59045,Jai Moondra,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+67864,Matt Hollard,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Ireland
+28185,Kamil Pooran,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,West Indies
+7566,Ben Curran,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+21777,Tafadzwa Tsiga,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+2410,Akshdeep Nath,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+25787,Khuzaima Tanvir,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+36033,Muhammad Shahdad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+47259,Adeeb Usmani,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+66056,Ajay Kumar,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,United Arab Emirates
+8244,Pratish GC,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+8249,Sher Malla,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+20172,Rashid Khan,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+20187,Narayan Joshi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+20192,Hemanta Dhami,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+25063,Santosh Yadav,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+29834,Basir Ahamad,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+33523,Arjun Saud,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Nepal
+8093,Nikhil Chaudhary,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+26795,Joel Davies,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Australia
+16536,Makoto Taniyama,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+16559,Alexander Patmore,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+16565,Kohei Kubota,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+16606,Tsuyoshi Takada,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+29699,Ibrahim Takahashi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+29706,Wataru Miyauchi,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+29709,Reo Sakurano,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+34928,Kendel Fleming,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+34929,Lachlan Lake,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+41541,Declan Suzuki,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+47542,Charles Hinze,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+54404,Benjamin Ito,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+54476,Jake Nairn,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+54518,Alester Fleming,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+65598,Shoma Slater,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Japan
+6506,Mohammad Imran Randhawa,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+71727,Razaullah Razaullah,INELIGIBLE_POLICY_EXCLUDED,BCCI / IPL tournament regulations exclude Pakistani national players from the auction pool.,False,Pakistan
+39640,Sineth Jayawardena,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Sri Lanka
+4870,Kundai Matigimu,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+28908,Vincent Masekesa,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Zimbabwe
+17910,Mohammad Akram,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
+17918,Abdullah Tarakhail,ELIGIBLE_AUCTION_CANDIDATE,International / Associate candidate eligible for IPL 2027 auction registration.,False,Afghanistan
