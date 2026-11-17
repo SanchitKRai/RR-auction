@@ -61,6 +61,8 @@ def main():
 
     # Photos & Crest
     b64_crest = load_base64(os.path.join(CUTOUTS_DIR, "rr_crest.png"))
+    b64_sidebar_logo = load_base64(os.path.join(ASSETS_DIR, "rr_crown_logo.png"))
+    b64_hero_banner = load_base64(os.path.join(ASSETS_DIR, "rr_hero_banner.jpg"))
     b64_vaibhav = load_base64(os.path.join(CUTOUTS_DIR, "vaibhav_cutout.png"))
     b64_ashutosh = load_base64(os.path.join(CUTOUTS_DIR, "ashutosh_sharma.png"))
     b64_pathirana = load_base64(os.path.join(CUTOUTS_DIR, "matheesha_pathirana.png"))
@@ -226,10 +228,11 @@ def main():
     .hero-banner__photo {{
       position: absolute;
       inset: 0 0 0 auto;
-      width: 52%;
+      width: 58%;
+      min-width: 540px;
       height: 100%;
       object-fit: cover;
-      object-position: 50% 38%;
+      object-position: right center;
       pointer-events: none;
       z-index: 1;
     }}
@@ -239,26 +242,12 @@ def main():
       inset: 0;
       background: linear-gradient(90deg,
         #111832 0%,
-        rgba(17,24,50,0.98) 32%,
-        rgba(17,24,50,0.72) 48%,
-        rgba(17,24,50,0.12) 75%,
-        rgba(17,24,50,0.25) 100%);
+        rgba(17,24,50,0.98) 35%,
+        rgba(17,24,50,0.70) 50%,
+        rgba(17,24,50,0.15) 75%,
+        rgba(17,24,50,0.05) 100%);
       pointer-events: none;
       z-index: 2;
-    }}
-    .hero-banner__flag {{
-      position: absolute;
-      z-index: 3;
-      right: 14px;
-      top: 4px;
-      width: 17%;
-      max-width: 220px;
-      height: 92%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      pointer-events: none;
-      filter: drop-shadow(0 10px 18px rgba(0,0,0,0.5));
     }}
     .hero-banner__content {{
       position: relative;
@@ -381,9 +370,9 @@ def main():
     <!-- Top Branding & Navigation -->
     <div class="flex-1 overflow-y-auto">
       
-      <!-- RR War Room Brand Header (Guide V3.0 Large Crest) -->
+      <!-- RR War Room Brand Header (Golden RR Crown Logo) -->
       <div class="px-6 py-6 border-b border-[#273452] flex items-center space-x-4">
-        <img src="{b64_crest}" alt="RR Crest" class="w-12 h-12 flex-shrink-0 object-contain drop-shadow-[0_0_12px_rgba(240,45,155,0.4)]">
+        <img src="{b64_sidebar_logo}" alt="Rajasthan Royals" class="w-11 h-12 flex-shrink-0 object-contain drop-shadow-[0_0_15px_rgba(244,201,93,0.35)]">
         <div>
           <h1 class="text-base font-black tracking-wider text-white uppercase leading-tight">RR WAR ROOM</h1>
           <p class="text-[11px] text-slate-400 font-semibold tracking-tight mt-0.5">IPL 2027 Analytics Engine</p>
@@ -553,18 +542,13 @@ def main():
       <!-- ===================================================================== -->
       <section id="module-overview" class="module-pane space-y-5">
         
-        <!-- HERO SECTION: Authentic Hawa Mahal Photograph, Atmospheric Lighting & Royal Flag (Guide V3.0 Spec) -->
+        <!-- HERO SECTION: Authentic Hawa Mahal Sunset Facade & Waving Royal Flag -->
         <div class="hero-banner flex items-center justify-between">
           
-          <!-- Layer 1: Authentic Hawa Mahal Photographic Hero Facade -->
-          <img src="{b64_hawa}" alt="Hawa Mahal" class="hero-banner__photo">
+          <!-- Layer 1: Authentic Hawa Mahal Sunset & Flag Panorama -->
+          <img src="{b64_hero_banner}" alt="Rajasthan Royals Hawa Mahal & Flag" class="hero-banner__photo">
 
-          <!-- Layer 2: Floating Royal Flag at Far Right -->
-          <div class="hero-banner__flag">
-            <img src="{b64_flag_crop}" alt="Rajasthan Royals Flag" class="h-full w-auto object-contain">
-          </div>
-
-          <!-- Layer 3: Live Title, Subtitle and Eyebrow in Safe Left Zone -->
+          <!-- Layer 2: Live Title, Subtitle and Eyebrow in Safe Left Zone -->
           <div class="hero-banner__content px-7 py-5 space-y-1.5">
             <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#F02D9B]/15 text-[#F02D9B] border border-[#F02D9B]/40 text-[10px] font-black uppercase tracking-wider">
               Executive Analytics
