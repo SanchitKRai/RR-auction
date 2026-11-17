@@ -1,0 +1,8 @@
+READ FIRST: RR_WAR_ROOM_FINAL_IMPLEMENTATION_GUIDE_V3.md
+
+V3 is the FINAL visual upgrade guide and supersedes earlier V1/V2 guides.
+Use the supplied SVGs for card backplates, role badges, KPI icons, chart glows and overlays.
+Download the two real Hawa Mahal photos from their Wikimedia Commons pages listed in README_ASSET_PACK_V3.md and preserve attribution/share-alike credits.
+Use authorized RR flag/logo assets. Remove white backgrounds from actual player photos to transparent PNGs; do not generate real-player lookalikes.
+Do not add an IPL logo watermark to the graphs: it is not visible in the original reference.
+Preserve data, filters, model calculations and all existing interactions.

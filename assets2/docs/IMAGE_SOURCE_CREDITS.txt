@@ -1,0 +1,17 @@
+Image source credits to keep in repository:
+
+1) Hero photo candidate:
+   File: Jaipur - Hawa Mahal.jpg
+   Author: Brijesh Gosai
+   Source: https://commons.wikimedia.org/wiki/File:Jaipur_-_Hawa_Mahal.jpg
+   License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+   Required credit: Photo: Brijesh Gosai / Wikimedia Commons, CC BY-SA 4.0.
+
+2) Sidebar night photo candidate:
+   File: Hawa Mahal in Jaipur, Rajasthan.jpg
+   Author: LakshayDhiman14
+   Source: https://commons.wikimedia.org/wiki/File:Hawa_Mahal_in_Jaipur,_Rajasthan.jpg
+   License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+   Required credit: Photo: LakshayDhiman14 / Wikimedia Commons, CC BY-SA 4.0.
+
+For both: note crop/colour adjustment. CC BY-SA 4.0 requires attribution and share-alike for adaptations.
